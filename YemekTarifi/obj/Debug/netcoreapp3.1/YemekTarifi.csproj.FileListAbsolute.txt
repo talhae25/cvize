@@ -1,0 +1,31 @@
+C:\Users\deniz\source\repos\YemekTarifi\bin\Debug\netcoreapp3.1\YemekTarifi.exe
+C:\Users\deniz\source\repos\YemekTarifi\bin\Debug\netcoreapp3.1\YemekTarifi.deps.json
+C:\Users\deniz\source\repos\YemekTarifi\bin\Debug\netcoreapp3.1\YemekTarifi.runtimeconfig.json
+C:\Users\deniz\source\repos\YemekTarifi\bin\Debug\netcoreapp3.1\YemekTarifi.runtimeconfig.dev.json
+C:\Users\deniz\source\repos\YemekTarifi\bin\Debug\netcoreapp3.1\YemekTarifi.dll
+C:\Users\deniz\source\repos\YemekTarifi\bin\Debug\netcoreapp3.1\YemekTarifi.pdb
+C:\Users\deniz\source\repos\YemekTarifi\obj\Debug\netcoreapp3.1\YemekTarifi.csprojAssemblyReference.cache
+C:\Users\deniz\source\repos\YemekTarifi\obj\Debug\netcoreapp3.1\YemekTarifi.csproj.GenerateResource.cache
+C:\Users\deniz\source\repos\YemekTarifi\obj\Debug\netcoreapp3.1\YemekTarifi.AssemblyInfoInputs.cache
+C:\Users\deniz\source\repos\YemekTarifi\obj\Debug\netcoreapp3.1\YemekTarifi.AssemblyInfo.cs
+C:\Users\deniz\source\repos\YemekTarifi\obj\Debug\netcoreapp3.1\YemekTarifi.csproj.CoreCompileInputs.cache
+C:\Users\deniz\source\repos\YemekTarifi\obj\Debug\netcoreapp3.1\YemekTarifi.dll
+C:\Users\deniz\source\repos\YemekTarifi\obj\Debug\netcoreapp3.1\YemekTarifi.pdb
+C:\Users\deniz\source\repos\YemekTarifi\obj\Debug\netcoreapp3.1\YemekTarifi.genruntimeconfig.cache
+C:\Users\deniz\source\repos\YemekTarifi\obj\Debug\netcoreapp3.1\YemekTarifi.frmYemekEkleme.resources
+C:\Users\Talha Eren Erdoğan\Desktop\YemekTarifi\bin\Debug\netcoreapp3.1\YemekTarifi.exe
+C:\Users\Talha Eren Erdoğan\Desktop\YemekTarifi\bin\Debug\netcoreapp3.1\YemekTarifi.deps.json
+C:\Users\Talha Eren Erdoğan\Desktop\YemekTarifi\bin\Debug\netcoreapp3.1\YemekTarifi.runtimeconfig.json
+C:\Users\Talha Eren Erdoğan\Desktop\YemekTarifi\bin\Debug\netcoreapp3.1\YemekTarifi.runtimeconfig.dev.json
+C:\Users\Talha Eren Erdoğan\Desktop\YemekTarifi\bin\Debug\netcoreapp3.1\YemekTarifi.dll
+C:\Users\Talha Eren Erdoğan\Desktop\YemekTarifi\bin\Debug\netcoreapp3.1\YemekTarifi.pdb
+C:\Users\Talha Eren Erdoğan\Desktop\YemekTarifi\obj\Debug\netcoreapp3.1\YemekTarifi.csproj.AssemblyReference.cache
+C:\Users\Talha Eren Erdoğan\Desktop\YemekTarifi\obj\Debug\netcoreapp3.1\YemekTarifi.frmYemekEkleme.resources
+C:\Users\Talha Eren Erdoğan\Desktop\YemekTarifi\obj\Debug\netcoreapp3.1\YemekTarifi.csproj.GenerateResource.cache
+C:\Users\Talha Eren Erdoğan\Desktop\YemekTarifi\obj\Debug\netcoreapp3.1\YemekTarifi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talha Eren Erdoğan\Desktop\YemekTarifi\obj\Debug\netcoreapp3.1\YemekTarifi.AssemblyInfoInputs.cache
+C:\Users\Talha Eren Erdoğan\Desktop\YemekTarifi\obj\Debug\netcoreapp3.1\YemekTarifi.AssemblyInfo.cs
+C:\Users\Talha Eren Erdoğan\Desktop\YemekTarifi\obj\Debug\netcoreapp3.1\YemekTarifi.csproj.CoreCompileInputs.cache
+C:\Users\Talha Eren Erdoğan\Desktop\YemekTarifi\obj\Debug\netcoreapp3.1\YemekTarifi.dll
+C:\Users\Talha Eren Erdoğan\Desktop\YemekTarifi\obj\Debug\netcoreapp3.1\YemekTarifi.pdb
+C:\Users\Talha Eren Erdoğan\Desktop\YemekTarifi\obj\Debug\netcoreapp3.1\YemekTarifi.genruntimeconfig.cache
